@@ -29,6 +29,57 @@ Lalgi, D. (2026). *Beyond Gravity 2*. Zenodo. https://doi.org/10.5281/zenodo.188
 }
 ---
 
+## 📄 Abstract
+
+*Beyond Gravity 2* presents an extended theoretical exploration of gravitational interaction through a proposed spiral-wave dynamic framework. The work builds upon conceptual models describing non-linear gravitational modulation, wave–field coupling, and multi-body celestial interaction systems.  
+
+This research introduces a structured hypothesis aimed at expanding classical gravitational interpretation by integrating spiral propagation geometry and dynamic coupling principles.  
+
+The framework is intended for academic discussion, theoretical analysis, and collaborative scientific exploration.
+
+---
+
+## 📊 Citation Count & Impact Tracking Strategy
+
+To monitor academic visibility and research impact, the following citation tracking ecosystem is recommended:
+
+### 1️⃣ Zenodo Citation Tracking
+- Zenodo automatically tracks views and downloads.
+- Citation data updates when indexed by connected repositories.
+- Ensure DOI metadata is complete and updated.
+
+### 2️⃣ OpenAIRE Index Monitoring
+- OpenAIRE indexing increases European research visibility.
+- Periodically check OpenAIRE portal for metadata synchronization.
+
+### 3️⃣ Google Scholar Profile Setup
+- Create a Google Scholar profile.
+- Manually add the DOI:
+  https://doi.org/10.5281/zenodo.18870393
+- Enable citation alerts.
+- Track:
+  - Citation count
+  - h-index
+  - i10-index
+
+### 4️⃣ ORCID Integration
+- Connect Zenodo to ORCID.
+- This links DOI to your researcher identity.
+- Improves global citation discoverability.
+
+### 5️⃣ GitHub Citation File
+Create a `CITATION.cff` file in the repository root:
+
+```yaml
+cff-version: 1.2.0
+title: Beyond Gravity 2
+authors:
+  - family-names: Lalgi
+    given-names: Dineshkumar
+doi: 10.5281/zenodo.18870393
+date-released: 2026
+---
+
 ## 📌 Author Contact Details
 
 **Author:** Dineshkumar Lalgi  
