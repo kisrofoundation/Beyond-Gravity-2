@@ -34,7 +34,7 @@ Lalgi, D. (2026). *Beyond Gravity 2*. Zenodo. https://doi.org/10.5281/zenodo.188
 **Author:** Dineshkumar Lalgi  
 **Organization:** Kisro Foundation  
 **GitHub:** https://github.com/kisrofoundation  
-**Email:** your-email@example.com  
+**Email:** kisrofoundation@gmail.com
 **Location:** Ahmedabad, India  
 
 ---
